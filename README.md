@@ -28,11 +28,11 @@ This AI-based job finder portal is a cutting-edge platform that utilizes advance
 
 ## Tech Stack
 
-**Client:** ASP.net, HTML, CSS, JavaScript
+**Client Side:** ASP.net, HTML, CSS, JavaScript, React
 
-**Server:** Python, ASP.net
+**Server Side:** Python, ASP.net
 
-**Database** MSSQL
+**Database:** MSSQL
 
 **Software Technologies:** Jupyter Notebook, Visual Studio
 
