@@ -7,7 +7,7 @@
 - [Tech Stack](#tach-stack)
 - [Documentation](#documentation)
 - [Project Deployment](#project-deployment)
-- [Execution Manual] (#Execution-Manual)
+- [Execution Manual](#Execution-Manual)
 - [Authors](#authors)
 ## About AI Based Online Job Portal
 This AI-based job finder portal is a cutting-edge platform that utilizes advanced AI technology to connect job seekers with their dream jobs. The portal collects and analyzes data from both job seekers and employers, including job descriptions, resumes, and company culture. Using this data, the AI algorithm matches job seekers with the best possible job opportunities, streamlining the job search process and saving time for both job seekers and employers.
