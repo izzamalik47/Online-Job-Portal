@@ -66,6 +66,21 @@ To deploy this project undergo the following steps:
 7. The result will be shown at the end of the file.
 
 
+## Execution Manual
+1. Open JobPortal folder in VsCode or any other editor
+2. Open vscode's terminal and write the following command "cd frontend"
+3. Now run the following command: "npm i"
+4. Now navigate to the backend folder using cd 
+5. Run following command: "rm -r venv"
+6. Run following commands: 
+	
+    i. pip install     virtualenv
+
+	ii.virtualenv venv
+
+	iii.venv\Scripts\activate
+7. Run the following command: "pip install -r requirements.txt"
+8. Now split your terminal and run both applications by using "npm start" and "flask run" for frontend and backend respectively.
 ## Authors
 
 - [@Laraibiftikhar](https://github.com/Laraibiftikhar)
